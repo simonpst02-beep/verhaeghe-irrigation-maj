@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "code": 16,
-  "notes": "Version bêta : les mises à jour et les licences passent par le nouveau dépôt public de distribution (le code source pourra être privé)."
+  "version": "2.5",
+  "code": 18,
+  "notes": "Version bêta : chaque code d'activation est lié à un seul téléphone (registre Google Sheets)."
 }
