@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
-  "code": 11,
-  "notes": "Nouvelle option dans Paramètres : « Recevoir les versions bêta » pour tester les nouveautés avant leur sortie officielle."
+  "version": "2.4",
+  "code": 17,
+  "notes": "Code d'activation personnel (application réservée aux membres Verhaeghe).\nAppareil photo dans l'onglet Photos, photos et légendes conservées.\nMises à jour visibles immédiatement, option « Recevoir les versions bêta »."
 }
