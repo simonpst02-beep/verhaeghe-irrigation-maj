@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "code": 17,
-  "notes": "Code d'activation personnel (application réservée aux membres Verhaeghe).\nAppareil photo dans l'onglet Photos, photos et légendes conservées.\nMises à jour visibles immédiatement, option « Recevoir les versions bêta »."
+  "version": "2.5",
+  "code": 19,
+  "notes": "Chaque code d'activation est maintenant lié à un seul téléphone."
 }
