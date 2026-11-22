@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
-  "code": 18,
-  "notes": "Version bêta : chaque code d'activation est lié à un seul téléphone (registre Google Sheets)."
+  "version": "2.6",
+  "code": 20,
+  "notes": "Version bêta : la licence est vérifiée à chaque ouverture de l'appli (un code désactivé bloque l'appli tout de suite)."
 }
