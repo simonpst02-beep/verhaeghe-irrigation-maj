@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
-  "code": 19,
-  "notes": "Chaque code d'activation est maintenant lié à un seul téléphone."
+  "version": "2.6",
+  "code": 21,
+  "notes": "La licence est vérifiée à chaque ouverture de l'appli : un code désactivé bloque l'appli tout de suite."
 }
