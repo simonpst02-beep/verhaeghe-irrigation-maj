@@ -1,5 +1,5 @@
 {
-  "version": "2.8.4",
-  "code": 36,
-  "notes": "Correctif : une intervention peut être validée avec le N° OT ou le nom du client (l'un des deux suffit)."
+  "version": "2.8.5",
+  "code": 37,
+  "notes": "Version bêta : nouvelle saisie des heures « Étape par étape » (client et OT, préparation, trajet aller, sur place, pause, trajet retour, vérification). Le formulaire complet reste disponible au choix."
 }
