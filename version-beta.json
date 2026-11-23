@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
-  "code": 20,
-  "notes": "Version bêta : la licence est vérifiée à chaque ouverture de l'appli (un code désactivé bloque l'appli tout de suite)."
+  "version": "2.7",
+  "code": 22,
+  "notes": "Version bêta : heures par OT (préparation, trajet, sur place, pause), chantier, client, remarque, groupe de techniciens, historique des OT, et assistant sur l'accueil (fonctionne aussi hors connexion)."
 }
