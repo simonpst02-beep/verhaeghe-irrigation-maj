@@ -1,5 +1,5 @@
 {
-  "version": "2.7.5",
-  "code": 27,
-  "notes": "Version bêta : bouton « Partager » dans l'onglet Heures pour envoyer le relevé de la journée (WhatsApp, SMS, e-mail…)."
+  "version": "2.7.6",
+  "code": 28,
+  "notes": "Version bêta : nouvelle section « Heures supplémentaires » en bas de l'onglet Heures (base 8 h par jour du lundi au vendredi, week-end compté en entier), par semaine et pour le mois."
 }
