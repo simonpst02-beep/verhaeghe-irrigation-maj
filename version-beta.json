@@ -1,5 +1,5 @@
 {
-  "version": "2.7.2",
-  "code": 24,
-  "notes": "Version bêta : tant que le N° OT et le client ne sont pas remplis, les boutons de validation des heures sont grisés et rien n'est enregistré (pause comprise)."
+  "version": "2.7.3",
+  "code": 25,
+  "notes": "Version bêta : heures saisies librement (préparation, trajet, sur place, pause) puis un seul bouton « Valider l'intervention ». N° OT et client obligatoires avant de valider."
 }
