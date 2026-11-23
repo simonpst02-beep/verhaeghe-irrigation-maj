@@ -1,5 +1,5 @@
 {
-  "version": "2.7.7",
-  "code": 29,
-  "notes": "Version bêta : trajet aller (base → client) et trajet retour (client → base) dans la même intervention."
+  "version": "2.7.8",
+  "code": 30,
+  "notes": "Version bêta : la saisie de l'intervention en cours (OT, client, chantier, remarque, heures) reste enregistrée même en fermant l'appli, jusqu'à la validation."
 }
