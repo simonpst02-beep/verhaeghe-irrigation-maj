@@ -1,5 +1,5 @@
 {
-  "version": "2.7.6",
-  "code": 28,
-  "notes": "Version bêta : nouvelle section « Heures supplémentaires » en bas de l'onglet Heures (base 8 h par jour du lundi au vendredi, week-end compté en entier), par semaine et pour le mois."
+  "version": "2.7.7",
+  "code": 29,
+  "notes": "Version bêta : trajet aller (base → client) et trajet retour (client → base) dans la même intervention."
 }
