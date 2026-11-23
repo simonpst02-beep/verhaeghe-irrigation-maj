@@ -1,5 +1,5 @@
 {
-  "version": "2.8.1",
-  "code": 33,
-  "notes": "Version bêta : Paramètres › Menu et affichage pour activer ou masquer chaque onglet et, dans chacun, les parties affichées (étapes, totaux, historique, heures sup., météo…)."
+  "version": "2.8.2",
+  "code": 34,
+  "notes": "Version bêta : le prénom est demandé à l'activation et lié à la licence (modifiable dans Paramètres › À propos). L'accueil vous salue par votre prénom."
 }
