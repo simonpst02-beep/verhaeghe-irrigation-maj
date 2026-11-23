@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
-  "code": 21,
-  "notes": "La licence est vérifiée à chaque ouverture de l'appli : un code désactivé bloque l'appli tout de suite."
+  "version": "2.8.3",
+  "code": 35,
+  "notes": "Nouveautés : heures par OT (préparation, trajet aller et retour, sur place, pause) avec un seul bouton « Valider l'intervention », N° OT et client obligatoires, historique des OT, heures supplémentaires du mois, export de la journée en texte et PDF, bouton Partager, menu et affichage personnalisables dans les Paramètres, prénom lié à la licence, assistant sur l'accueil."
 }
