@@ -1,5 +1,5 @@
 {
-  "version": "2.7.3",
-  "code": 25,
-  "notes": "Version bêta : heures saisies librement (préparation, trajet, sur place, pause) puis un seul bouton « Valider l'intervention ». N° OT et client obligatoires avant de valider."
+  "version": "2.7.4",
+  "code": 26,
+  "notes": "Version bêta : export de la journée en fichier texte et en PDF (onglet Heures). Le texte copié est regroupé par OT, avec le n° d'OT une seule fois en en-tête."
 }
