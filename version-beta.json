@@ -1,5 +1,5 @@
 {
-  "version": "2.7.8",
-  "code": 30,
-  "notes": "Version bêta : la saisie de l'intervention en cours (OT, client, chantier, remarque, heures) reste enregistrée même en fermant l'appli, jusqu'à la validation."
+  "version": "2.7.9",
+  "code": 31,
+  "notes": "Version bêta : onglet Heures plus compact, et dans le détail de la journée seules les 2 dernières interventions restent affichées (les précédentes sont dans un menu déroulant)."
 }
