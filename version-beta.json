@@ -1,5 +1,5 @@
 {
-  "version": "2.8.5",
-  "code": 37,
-  "notes": "Version bêta : nouvelle saisie des heures « Étape par étape » (client et OT, préparation, trajet aller, sur place, pause, trajet retour, vérification). Le formulaire complet reste disponible au choix."
+  "version": "2.8.6",
+  "code": 38,
+  "notes": "Version bêta : widget « Heures – étape par étape » pour l'écran d'accueil (appui long sur l'écran d'accueil › Widgets › Verhaeghe Irrigation). Il affiche les heures du jour et ouvre directement l'étape choisie."
 }
