@@ -1,5 +1,5 @@
 {
-  "version": "2.7.4",
-  "code": 26,
-  "notes": "Version bêta : export de la journée en fichier texte et en PDF (onglet Heures). Le texte copié est regroupé par OT, avec le n° d'OT une seule fois en en-tête."
+  "version": "2.7.5",
+  "code": 27,
+  "notes": "Version bêta : bouton « Partager » dans l'onglet Heures pour envoyer le relevé de la journée (WhatsApp, SMS, e-mail…)."
 }
