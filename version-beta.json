@@ -1,5 +1,5 @@
 {
-  "version": "2.7.9",
-  "code": 31,
-  "notes": "Version bêta : onglet Heures plus compact, et dans le détail de la journée seules les 2 dernières interventions restent affichées (les précédentes sont dans un menu déroulant)."
+  "version": "2.8",
+  "code": 32,
+  "notes": "Version bêta : dans « Trajets entre interventions » et « Détail de la journée », la dernière intervention est affichée en haut, les précédentes sont dans un menu déroulant."
 }
