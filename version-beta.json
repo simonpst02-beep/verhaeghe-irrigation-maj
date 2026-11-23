@@ -1,5 +1,5 @@
 {
-  "version": "2.8.2",
-  "code": 34,
-  "notes": "Version bêta : le prénom est demandé à l'activation et lié à la licence (modifiable dans Paramètres › À propos). L'accueil vous salue par votre prénom."
+  "version": "2.8.3",
+  "code": 35,
+  "notes": "Version bêta : sur l'accueil, le prénom s'affiche sur sa propre ligne et n'est plus caché par l'horloge."
 }
