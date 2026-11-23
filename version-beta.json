@@ -1,5 +1,5 @@
 {
-  "version": "2.7.1",
-  "code": 23,
-  "notes": "Version bêta : le N° OT et le client sont obligatoires avant de valider les heures (sauf pause). Le bouton devient « Valider l'intervention »."
+  "version": "2.7.2",
+  "code": 24,
+  "notes": "Version bêta : tant que le N° OT et le client ne sont pas remplis, les boutons de validation des heures sont grisés et rien n'est enregistré (pause comprise)."
 }
