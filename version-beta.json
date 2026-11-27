@@ -1,5 +1,5 @@
 {
-  "version": "2.8.9",
-  "code": 41,
-  "notes": "Version bêta : dans Heures, les pauses sont déduites du temps de travail, même quand elles tombent pendant une intervention ou un trajet (totaux du jour, de la semaine, du mois, heures sup, widget et rapports par OT)."
+  "version": "2.9.0",
+  "code": 42,
+  "notes": "Version bêta : la bulle de l'assistant réapparaît sur l'accueil, placée à droite pour ne plus cacher les boutons (elle reste masquable)."
 }
