@@ -1,5 +1,5 @@
 {
-  "version": "2.9.0",
-  "code": 42,
-  "notes": "Version bêta : la bulle de l'assistant réapparaît sur l'accueil, placée à droite pour ne plus cacher les boutons (elle reste masquable)."
+  "version": "2.9.1",
+  "code": 43,
+  "notes": "Version bêta : bouton « Dicter mes heures » dans Heures (OT, client, préparation, trajets, sur place, pause remplis à la voix, à vérifier avant de valider). Bulle de l'assistant de retour, à droite."
 }
