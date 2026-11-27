@@ -1,5 +1,5 @@
 {
-  "version": "2.8.8",
-  "code": 40,
-  "notes": "Version bêta : chaque taille du widget Heures a sa propre entrée dans la liste des widgets (mini 1×1, petit 2×1, moyen 4×1, grand 4×2, très grand 4×3)."
+  "version": "2.8.9",
+  "code": 41,
+  "notes": "Version bêta : dans Heures, les pauses sont déduites du temps de travail, même quand elles tombent pendant une intervention ou un trajet (totaux du jour, de la semaine, du mois, heures sup, widget et rapports par OT)."
 }
