@@ -1,5 +1,5 @@
 {
-  "version": "2.8.9",
-  "code": 41,
-  "notes": "Nouveautés : saisie des heures étape par étape (au choix), widget Heures pour l'écran d'accueil (5 tailles), et les pauses sont déduites du temps de travail même quand elles tombent pendant une intervention ou un trajet."
+  "version": "2.9.1",
+  "code": 43,
+  "notes": "Nouveautés : bouton « Dicter mes heures » dans Heures (le formulaire se remplit à la voix, vous vérifiez puis validez), et la bulle de l'assistant revient sur l'accueil, à droite."
 }
