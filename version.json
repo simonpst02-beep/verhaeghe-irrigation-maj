@@ -1,5 +1,5 @@
 {
-  "version": "2.8.4",
-  "code": 36,
-  "notes": "Correctif : une intervention peut être validée avec le N° OT ou le nom du client (l'un des deux suffit)."
+  "version": "2.8.9",
+  "code": 41,
+  "notes": "Nouveautés : saisie des heures étape par étape (au choix), widget Heures pour l'écran d'accueil (5 tailles), et les pauses sont déduites du temps de travail même quand elles tombent pendant une intervention ou un trajet."
 }
